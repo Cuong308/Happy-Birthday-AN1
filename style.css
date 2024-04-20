@@ -1,0 +1,46 @@
+h1,
+p {
+  color: chocolate;
+  font-style: italic;
+}
+h3 {
+  color: darkred;
+}
+.box1 {
+  background-color: pink;
+  width: 300px;
+  height: 450px;
+  color: greenyellow;
+  padding: 10px 20px 30px 40px;
+  border: 10px solid royalblue;
+  margin: 10px;
+  margin-left: 600px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+}
+.box2 {
+  background-color: pink;
+  width: 300px;
+  height: 450px;
+  color: greenyellow;
+  padding: 10px 20px 30px 40px;
+  border: 10px solid royalblue;
+  margin: 10px;
+  margin-left: 600px;
+  margin-bottom: 30px;
+  margin-right: 40px;
+}
+img {
+  width: 320px;
+  height: 425px;
+  margin: 10px;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  margin-right: 0px;
+}
+h2 {
+  color: plum;
+}
+a {
+  font-size: xx-large;
+}
